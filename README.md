@@ -1,7 +1,5 @@
 # Pomodoro Timer
 
-*A full-cycle digital device development project — from concept and code to PCB design and 3D-printed enclosure.*
-
 ### Описание устройства
 
 Устройство может показывать текущее время и работать в режиме Pomodoro-таймера. В его составе:
