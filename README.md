@@ -4,14 +4,12 @@
 
 ---
 
-## English
-
 ### Device Description
 
 The “Pomodoro Timer” is a physical productivity tool that shows the current time and works as a Pomodoro timer. The device consists of the following components:
 
 - **Two push buttons** – power button and timer start button.  
-  ![Button](images/figure2.png)
+  ![Button](Images/fig2.png)
 - **1.8” TFT LCD color display** (128×160) – information screen.  
   ![LCD](images/figure3.png)
 - **Rotary encoder** – time adjustment knob.  
@@ -116,18 +114,12 @@ Thus, the goal of the course work was achieved. The developed “Pomodoro Timer�
 
 ---
 
-## 🇷🇺 Русский
-
 ### Описание устройства
-
-Изображение устройства-вдохновителя «Pomodoro Timer» представлено на рисунке 1.
-
-![Рисунок 1](images/figure1.png)
 
 Устройство может показывать текущее время и работать в режиме Pomodoro-таймера. В его составе:
 
 - Два кнопочных переключателя – кнопка включения и кнопка запуска таймера.  
-  ![Кнопка](images/figure2.png)
+  ![Кнопка](Images/fig2.png)
 - Цветной дисплей TFT LCD 1,8" (128×160) – экран отображения информации.  
   ![LCD дисплей](images/figure3.png)
 - Поворотный энкодер – тумблер управления временем.  
