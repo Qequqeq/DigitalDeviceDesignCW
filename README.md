@@ -29,7 +29,7 @@ The device is designed to **boost user productivity**. The Pomodoro Technique is
 
 The schematic diagram of the device is shown in Figure 7.
 
-![Schematic](images/figure7.png)
+![Schematic](Hardware/Schematic/SchematicDiagram.png)
 
 ### PCB Development
 
